@@ -1,13 +1,16 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "Hello! " 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+# iiiSmile
 
+![Github][1]
 
+作者的Github
 
+作者的邮箱:`it2291539230@yeah.net`
 
-
+  [1]: https://github.githubassets.com/images/spinners/octocat-spinner-128.gif
