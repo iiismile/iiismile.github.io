@@ -14,5 +14,5 @@ header-img: "img/green.jpg"
 
 
   [1]: https://github.githubassets.com/images/spinners/octocat-spinner-128.gif
-  [2]:https://github.com/iiismile/iiismile.github.io/blob/master/Github_293px_1230449_easyicon.net.png
+  [2]: https://raw.githubusercontent.com/iiismile/iiismile.github.io/master/Github_293px_1230449_easyicon.net.png
   [3]: https://github.com/iiismile "Github"
